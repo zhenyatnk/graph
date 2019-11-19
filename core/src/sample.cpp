@@ -1,4 +1,4 @@
-#include <graph/core/sample.hpp>
+#include <graph/core/export.hpp>
 
 namespace graph {
 namespace core {
